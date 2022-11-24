@@ -1,0 +1,17 @@
+E:\MyWorks\Blog\SS.Blog.Services\bin\Debug\net6.0\SS.Blog.Services.deps.json
+E:\MyWorks\Blog\SS.Blog.Services\bin\Debug\net6.0\SS.Blog.Services.dll
+E:\MyWorks\Blog\SS.Blog.Services\bin\Debug\net6.0\SS.Blog.Services.pdb
+E:\MyWorks\Blog\SS.Blog.Services\bin\Debug\net6.0\SS.Blog.DataAccesses.dll
+E:\MyWorks\Blog\SS.Blog.Services\bin\Debug\net6.0\SS.Blog.Models.dll
+E:\MyWorks\Blog\SS.Blog.Services\bin\Debug\net6.0\SS.Blog.DataAccesses.pdb
+E:\MyWorks\Blog\SS.Blog.Services\bin\Debug\net6.0\SS.Blog.Models.pdb
+E:\MyWorks\Blog\SS.Blog.Services\obj\Debug\net6.0\SS.Blog.Services.csproj.AssemblyReference.cache
+E:\MyWorks\Blog\SS.Blog.Services\obj\Debug\net6.0\SS.Blog.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyWorks\Blog\SS.Blog.Services\obj\Debug\net6.0\SS.Blog.Services.AssemblyInfoInputs.cache
+E:\MyWorks\Blog\SS.Blog.Services\obj\Debug\net6.0\SS.Blog.Services.AssemblyInfo.cs
+E:\MyWorks\Blog\SS.Blog.Services\obj\Debug\net6.0\SS.Blog.Services.csproj.CoreCompileInputs.cache
+E:\MyWorks\Blog\SS.Blog.Services\obj\Debug\net6.0\SS.Blog.Services.csproj.CopyComplete
+E:\MyWorks\Blog\SS.Blog.Services\obj\Debug\net6.0\SS.Blog.Services.dll
+E:\MyWorks\Blog\SS.Blog.Services\obj\Debug\net6.0\refint\SS.Blog.Services.dll
+E:\MyWorks\Blog\SS.Blog.Services\obj\Debug\net6.0\SS.Blog.Services.pdb
+E:\MyWorks\Blog\SS.Blog.Services\obj\Debug\net6.0\ref\SS.Blog.Services.dll

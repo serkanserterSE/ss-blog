@@ -1,0 +1,15 @@
+E:\MyWorks\Blog\SS.Blog.Queue\bin\Debug\net6.0\SS.Blog.Queue.deps.json
+E:\MyWorks\Blog\SS.Blog.Queue\bin\Debug\net6.0\SS.Blog.Queue.dll
+E:\MyWorks\Blog\SS.Blog.Queue\bin\Debug\net6.0\SS.Blog.Queue.pdb
+E:\MyWorks\Blog\SS.Blog.Queue\bin\Debug\net6.0\SS.Blog.Models.dll
+E:\MyWorks\Blog\SS.Blog.Queue\bin\Debug\net6.0\SS.Blog.Models.pdb
+E:\MyWorks\Blog\SS.Blog.Queue\obj\Debug\net6.0\SS.Blog.Queue.csproj.AssemblyReference.cache
+E:\MyWorks\Blog\SS.Blog.Queue\obj\Debug\net6.0\SS.Blog.Queue.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyWorks\Blog\SS.Blog.Queue\obj\Debug\net6.0\SS.Blog.Queue.AssemblyInfoInputs.cache
+E:\MyWorks\Blog\SS.Blog.Queue\obj\Debug\net6.0\SS.Blog.Queue.AssemblyInfo.cs
+E:\MyWorks\Blog\SS.Blog.Queue\obj\Debug\net6.0\SS.Blog.Queue.csproj.CoreCompileInputs.cache
+E:\MyWorks\Blog\SS.Blog.Queue\obj\Debug\net6.0\SS.Blog.Queue.csproj.CopyComplete
+E:\MyWorks\Blog\SS.Blog.Queue\obj\Debug\net6.0\SS.Blog.Queue.dll
+E:\MyWorks\Blog\SS.Blog.Queue\obj\Debug\net6.0\refint\SS.Blog.Queue.dll
+E:\MyWorks\Blog\SS.Blog.Queue\obj\Debug\net6.0\SS.Blog.Queue.pdb
+E:\MyWorks\Blog\SS.Blog.Queue\obj\Debug\net6.0\ref\SS.Blog.Queue.dll

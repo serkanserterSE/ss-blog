@@ -1,0 +1,12 @@
+E:\MyWorks\Blog\SS.Blog.Models\bin\Debug\net6.0\SS.Blog.Models.deps.json
+E:\MyWorks\Blog\SS.Blog.Models\bin\Debug\net6.0\SS.Blog.Models.dll
+E:\MyWorks\Blog\SS.Blog.Models\bin\Debug\net6.0\SS.Blog.Models.pdb
+E:\MyWorks\Blog\SS.Blog.Models\obj\Debug\net6.0\SS.Blog.Models.csproj.AssemblyReference.cache
+E:\MyWorks\Blog\SS.Blog.Models\obj\Debug\net6.0\SS.Blog.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyWorks\Blog\SS.Blog.Models\obj\Debug\net6.0\SS.Blog.Models.AssemblyInfoInputs.cache
+E:\MyWorks\Blog\SS.Blog.Models\obj\Debug\net6.0\SS.Blog.Models.AssemblyInfo.cs
+E:\MyWorks\Blog\SS.Blog.Models\obj\Debug\net6.0\SS.Blog.Models.csproj.CoreCompileInputs.cache
+E:\MyWorks\Blog\SS.Blog.Models\obj\Debug\net6.0\SS.Blog.Models.dll
+E:\MyWorks\Blog\SS.Blog.Models\obj\Debug\net6.0\refint\SS.Blog.Models.dll
+E:\MyWorks\Blog\SS.Blog.Models\obj\Debug\net6.0\SS.Blog.Models.pdb
+E:\MyWorks\Blog\SS.Blog.Models\obj\Debug\net6.0\ref\SS.Blog.Models.dll
